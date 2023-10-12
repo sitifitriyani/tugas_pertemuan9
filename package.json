@@ -1,0 +1,13 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000t\u0000u\u0000g\u0000a\u0000s\u0000\r\u0000 \u0000#\u0000 \u0000t\u0000u\u0000g\u0000a\u0000s\u0000\r\u0000 \u0000#\u0000 \u0000t\u0000u\u0000g\u0000a\u0000s\u0000\r\u0000 \u0000#\u0000 \u0000t\u0000u\u0000g\u0000a\u0000s\u0000_\u0000p\u0000e\u0000r\u0000t\u0000e\u0000m\u0000u\u0000a\u0000n\u00009\u0000\r\u0000 \u0000",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
